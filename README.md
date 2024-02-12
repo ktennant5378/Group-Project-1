@@ -5,6 +5,7 @@
     <li>Ipsita Purohit</li>
     <li>Kenway Tennant</li>
     <li>Tim Spendley</li>
+</ul>
 
 <h2>Goal</h2>
 <p>{Put summary description here ... from Ispita's slide in deck}</p>
