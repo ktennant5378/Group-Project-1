@@ -8,7 +8,7 @@
 </ul>
 
 <h2>Goal</h2>
-<p>{Put summary description here ... from Ispita's slide in deck}</p>
+<p>Run through research to predict groups who are likely to have diabetes, hypertension or heart disease based on various health factors.</p>
 
 <h3>Questions / Tasks:</h3>
 <ol>
@@ -21,6 +21,14 @@
     <li>What's the correlation between smoking history and the three diseases? 
     <li>Compare census population data to the healthcare dataset (Using the census API for gender/age distribution).
 </ol>
+
+<h3>Findings</h3>
+<ul>
+    <li><a href="https://github.com/ktennant5378/Group-Project-1/tree/main/Disease_Predictor.docx">Findings</a></li>
+    <li><a href="https://github.com/ktennant5378/Group-Project-1/tree/main/Disease_Predictor.pptx">Presentation</a></li>
+    <li><a href="https://github.com/ktennant5378/Group-Project-1/tree/main/Images">Images/Graphs</a><li>
+</ul>
+
 
 <h2>Data Sources</h2>
 <ul>
