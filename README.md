@@ -26,7 +26,7 @@
 <ul>
     <li><a href="https://github.com/ktennant5378/Group-Project-1/tree/main/Disease_Predictor.docx">Findings</a></li>
     <li><a href="https://github.com/ktennant5378/Group-Project-1/tree/main/Disease_Predictor.pptx">Presentation</a></li>
-    <li><a href="https://github.com/ktennant5378/Group-Project-1/tree/main/Images">Images/Graphs</a><li>
+    <li><a href="https://github.com/ktennant5378/Group-Project-1/tree/main/Images">Images/Graphs</a></li>
 </ul>
 
 
