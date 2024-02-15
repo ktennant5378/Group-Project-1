@@ -13,7 +13,7 @@
 <h3>Questions / Tasks:</h3>
 <ol>
     <li>Is there a correlation between age of the patient and hypertension and heart disease? 
-    <li>Is there a correlation between gender/sex of the patient and hypertension and heart disease? 
+    <li>Find the count of males and females and percentage (%) of male and female population for each of the diseases? 
     <li>Find the correlation between bmi and blood_sugar level and whether a person is diabetic? 
     <li>What age group is diabetic (Create a bar chart for each age group)?
     <li>What age group suffers from heart disease and hypertension more? 
